@@ -1,0 +1,9 @@
+general:
+   debug_on: False
+   logging_level: "WARNING"
+
+endpoint:
+   project: "airquality-418102"
+   location: "us-central1"
+file_names:
+   saved_model: 'vtoonify_model'

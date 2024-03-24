@@ -1,0 +1,8 @@
+dlib
+numpy
+opencv-contrib-python
+Pillow
+scipy
+torch
+torchvision
+jinja2
